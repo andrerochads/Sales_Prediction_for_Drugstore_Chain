@@ -56,7 +56,7 @@
 
 <p><b> Hypotesis 1:</b> Stores with closer competitors should sell less. </p>
 <p><b> False.</b> Stores with closer competitors sell more. </p>
-![h1 chart](/images/h_competitors.png)
+![h1 chart](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/32ae91627eb5a2f03cf718d3ec70a6d79ebe9975/images/h_competitors.png)
 
 
 <p><b> Hypotesis 2:</b> Stores with more consecutives promotions should sell more.</p>
