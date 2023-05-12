@@ -56,17 +56,20 @@
 
 <p><b> Hypotesis 1:</b> Stores with closer competitors should sell less. </p>
 <p><b> False.</b> Stores with closer competitors sell more. </p>
+
 ![h1 chart](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/32ae91627eb5a2f03cf718d3ec70a6d79ebe9975/images/h_competitors.png)
 
 
 <p><b> Hypotesis 2:</b> Stores with more consecutives promotions should sell more.</p>
 <p><b> False.</b> Stores with more consecutive promotions sell less. </p>
-![h2 chart](/images/h_promotions.png)
+
+![h2 chart](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/29a1b0aea6f99b93725c394bb2ac7148cbefd858/images/h_promotions.png)
 
 
 <p><b> Hypotesis 3:</b> Stores with greater assortments should sell more. </p>
 <p><b> False.</b> Stores with greater assortment sell less. </p>
-![h3 chart](/images/h_assortment.png)
+
+![h3 chart](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/29a1b0aea6f99b93725c394bb2ac7148cbefd858/images/h_assortment.png)
 
 
 
@@ -79,25 +82,15 @@
 <p> The MAE, MAPE and RMSE metrics evaluated the performance of the models. </p>
 
 <p> I performed a single test to verify the linearity of the problem. </p>
-![Single performance table](/images/single_performance.png)
+
+![Single performance table](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/29a1b0aea6f99b93725c394bb2ac7148cbefd858/images/single_performance.PNG)
 
 <p> To know the real performance of the model, I applied the Cross validation technique. </p>
-![Real performance table](/images/real_performance.png)
+
+![Real performance table](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/29a1b0aea6f99b93725c394bb2ac7148cbefd858/images/real_performance.PNG)
 
 <p> 
 Despite a slight performance difference over Random Forest, I chose to use XGBoost due to my interest in learning it. Also, as the project was on a storage-limited cloud platform, XGBoost required less space, making it more suitable. 
-</p>
-
-<p> The MAE, MAPE and RMSE metrics evaluated the performance of the models. </p>
-
-<p> I performed a single test to verify the linearity of the problem. </p>
-![Single Performance Table](/images/single_performance.png)
-
-<p> To know the real performance of the model, I applied the cross-validation technique. </p>
-![Real performance table](/images/real_performance.png)
-
-<p>
-Despite a small performance difference compared to Random Forest, I chose to use XGBoost due to my interest in learning it. Also, as the project was on a cloud platform with limited storage, XGBoost required less space, making it more suitable.
 </p>
 
 <p> After the algorithm selection, I also applied the fine tuning technique to it. </p>
@@ -113,7 +106,8 @@ Despite a small performance difference compared to Random Forest, I chose to use
 <p> 
 The table below presents the results of the sum of sales of all stores, which in the next six weeks will generate a profit of 284.9 million in the worst case scenario or 286.6 million in the best case scenario.
 </p>
-![Business Results table](/images/Business Results.png)
+
+![Business Results table](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/29a1b0aea6f99b93725c394bb2ac7148cbefd858/images/Business%20Results.png)
 
 
 
