@@ -27,8 +27,16 @@
 </ul>
 
 
+## 3. The CRISP-DS method
+<p>
+I used the CRISP-DM method (Cross Industry Standard Process - Data Science) due to the quick delivery of value and the ability to map issues. The cyclical approach of CRISP-DM allows to obtain a complete solution in one cycle, generating efficient and agile results for the business.  
+</p> 
 
-## 3. Solution Strategy
+![Single performance table](images/CRISP-DS_cycle.PNG)
+
+
+
+## 4. Solution Strategy
 
 <p><b> Step 1 - Data Description:</b> My goal is to use statistics metrics to identify data outside the scope of business. </p>  
 
@@ -52,7 +60,7 @@
 
 
 
-## 4. Top 3 Data Insights
+## 5. Top 3 Data Insights
 
 <p><b> Hypotesis 1:</b> Stores with closer competitors should sell less. </p>
 <p><b> False.</b> Stores with closer competitors sell more. </p>
@@ -73,12 +81,12 @@
 
 
 
-## 5. Machine Learning Models Applied
+## 6. Machine Learning Models Applied
 <p> Tests were made using different algorithms. </p>
 
 
 
-## 6. Machine Learning Performance
+## 7. Machine Learning Performance
 <p> The MAE, MAPE and RMSE metrics evaluated the performance of the models. </p>
 
 <p> I performed a single test to verify the linearity of the problem. </p>
@@ -97,12 +105,12 @@ Despite a slight performance difference over Random Forest, I chose to use XGBoo
 
 
 
-## 7. Deployment
+## 8. Deployment
 <p> I developed a Telegram bot that returns store sales forecasts to the user. </p>
 
 
 
-## 8. Business Results
+## 9. Business Results
 <p> 
 The table below presents the results of the sum of sales of all stores, which in the next six weeks will generate a profit of 284.9 million in the worst case scenario or 286.6 million in the best case scenario.
 </p>
@@ -111,14 +119,14 @@ The table below presents the results of the sum of sales of all stores, which in
 
 
 
-## 9. Conclusion
+## 10. Conclusion
 <p>I performed exploratory data analysis, gained insights relevant to the business, developed a sales forecast model with satisfactory performance and presented the results to the CFO in a clear and accessible way through the Telegram bot.</p>
 <p>Therefore, I successfully achieved the project's objective, predicting sales for the next six weeks, adding value to the company through a data-based business solution.</p>
 
 
 
 
-## 10. Next Steps to Improve
+## 11. Next Steps to Improve
 <ul>
   <li> Investigate model underperformance in specific stores and resolve identified issues. </li>
 
