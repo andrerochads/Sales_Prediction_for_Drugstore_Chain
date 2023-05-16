@@ -27,7 +27,7 @@
 </ul>
 
 
-## 3. The CRISP-DS method
+## 3. Project management method
 <p>
 I used the CRISP-DM method (Cross Industry Standard Process - Data Science) due to the quick delivery of value and the ability to map issues. The cyclical approach of CRISP-DM allows to obtain a complete solution in one cycle, generating efficient and agile results for the business.  
 </p> 
