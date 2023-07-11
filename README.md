@@ -107,7 +107,9 @@ Despite a slight performance difference over Random Forest, I chose to use XGBoo
 
 ## 8. Deployment
 <p> I developed a Telegram bot that returns store sales forecasts to the user. </p>
+<p> In the image below, you can see the schematic of the model deploy using telegram. </p>
 
+![telegramAPI](https://github.com/andrerochads/Sales_Prediction_for_Drugstore_Chain/blob/59e19f4300d679a927fb641b8449d73cb9f7f93a/images/telegramAPI.PNG)
 
 
 ## 9. Business Results
